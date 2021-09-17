@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**demoanddemo/demoanddemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Demoanddemo! 
+I'm currently teaching at my hometown. Basically interested in cybersecurity and network safety management . I know some intermediate level in web development web app security ,self taught programmer ,learning.
+demoanddemo
 
-Here are some ideas to get you started:
+Coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on NOIP education
+🌱 I’m currently learning SQL
+👯 I’m looking to collaborate on any front-end projects
+💬 Ask me about Bug hunting, python, front-end ideas
+👨‍💻 Portfolio ...
+📫 How to reach me ...
+⚡ fun fact Knows to cook , football person⚽
+Connect with me:
+...
+
+Languages and Tools:
+c cplusplus linux  python
+
+demoanddemo
+
+ demoanddemo
